@@ -1,0 +1,112 @@
+Peruana,Lima
+Peruana,Arequipa
+Peruana,Trujillo
+Peruana,Chiclayo
+Peruana,Piura
+Peruana,Iquitos
+Peruana,Cusco
+Peruana,Huancayo
+Peruana,Huánuco
+Peruana,Tacna
+Peruana,Cajamarca
+Peruana,Pucallpa
+Peruana,Tumbes
+Peruana,Chimbote
+Peruana,Huaraz
+Peruana,Chincha Alta
+Peruana,Moquegua
+Peruana,Chachapoyas
+Peruana,Ica
+Peruana,Puno
+Peruana,Ayacucho
+Peruana,Cerro de Pasco
+Peruana,Piñas
+Peruana,Barranca
+Peruana,Cañete
+Peruana,Tarma
+Peruana,Satipo
+Peruana,Jauja
+Peruana,Pacasmayo
+Peruana,Chota
+Peruana,Bagua Grande
+Peruana,Moyobamba
+Peruana,Tingo María
+Peruana,Oxapampa
+Peruana,Tambo Grande
+Peruana,Tarapoto
+Peruana,Bellavista
+Peruana,Pimentel
+Peruana,Chulucanas
+Peruana,Talara
+Peruana,Paita
+Peruana,Pisco
+Peruana,Nazca
+Peruana,Chincha
+Peruana,Moquegua
+Peruana,Juliaca
+Peruana,Arequipa
+Peruana,Moquegua
+Peruana,Tacna
+Peruana,Chachapoyas
+Peruana,Jaén
+Peruana,Huánuco
+Peruana,Ayacucho
+Peruana,Cajamarca
+Peruana,Huaraz
+Peruana,Tarapoto
+Peruana,Moyobamba
+Peruana,Chachapoyas
+Peruana,Pucallpa
+Peruana,Iquitos
+Peruana,Pucallpa
+Peruana,Tarapoto
+Peruana,Chachapoyas
+Peruana,Jauja
+Peruana,Chimbote
+Peruana,Arequipa
+Peruana,Ica
+Peruana,Tacna
+Peruana,Puno
+Peruana,Cerro de Pasco
+Peruana,Huaraz
+Peruana,Tumbes
+Peruana,Iquitos
+Peruana,Pucallpa
+Peruana,Chachapoyas
+Peruana,Moquegua
+Peruana,Tacna
+Peruana,Ayacucho
+Argentina,Buenos Aires
+Australia,Sydney
+Austria,Vienna
+Belgium,Brussels
+Brazil,Rio de Janeiro
+Canada,Toronto
+Chile,Santiago
+China,Beijing
+Colombia,Bogota
+Croatia,Zagreb
+Czech Republic,Prague
+Denmark,Copenhagen
+Egypt,Cairo
+Finland,Helsinki
+France,Paris
+Germany,Berlin
+Greece,Athens
+Hungary,Budapest
+India,New Delhi
+Indonesia,Jakarta
+Ireland,Dublin
+Israel,Jerusalem
+Italy,Rome
+Japan,Tokyo
+Kenya,Nairobi
+Mexico,Mexico City
+Netherlands,Amsterdam
+New Zealand,Wellington
+Nigeria,Lagos
+Norway,Oslo
+Pakistan,Islamabad
+Philippines,Manila
+Poland,Warsaw
+Portugal,Lisbon

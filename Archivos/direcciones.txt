@@ -1,0 +1,73 @@
+Amazonas,Chachapoyas,Chachapoyas,Chachapoyas
+Ancash,Huaraz,Huaraz,Huaraz
+Apurimac,Abancay,Abancay,Abancay
+Arequipa,Arequipa,Arequipa,Arequipa
+Ayacucho,Ayacucho,Ayacucho,Ayacucho
+Cajamarca,Cajamarca,Cajamarca,Cajamarca
+Callao,Callao,Callao,Callao
+Cusco,Cusco,Cusco,Cusco
+Huancavelica,Huancavelica,Huancavelica,Huancavelica
+Huanuco,Huanuco,Huanuco,Huanuco
+Ica,Ica,Ica,Ica
+Junin,Huancayo,Huancayo,Huancayo
+La Libertad,Trujillo,Trujillo,Trujillo
+Lambayeque,Chiclayo,Chiclayo,Chiclayo
+Lima,Lima,Lima,Lima
+Loreto,Iquitos,Iquitos,Iquitos
+Madre de Dios,Puerto Maldonado,Puerto Maldonado,Puerto Maldonado
+Moquegua,Moquegua,Moquegua,Moquegua
+Pasco,Cerro de Pasco,Cerro de Pasco,Cerro de Pasco
+Piura,Piura,Piura,Piura
+Puno,Puno,Puno,Puno
+San Martin,Moyobamba,Moyobamba,Moyobamba
+Tacna,Tacna,Tacna,Tacna
+Tumbes,Tumbes,Tumbes,Tumbes
+Ucayali,Pucallpa,Pucallpa,Pucallpa
+Ancash,Caraz,Caraz,Caraz
+Apurimac,Andahuaylas,Andahuaylas,Andahuaylas
+Arequipa,Camaná,Camaná,Camaná
+Ayacucho,Huanta,Huanta,Huanta
+Cajamarca,Celendín,Celendín,Celendín
+Callao,Carmen de La Legua-Reynoso,Carmen de La Legua-Reynoso,Carmen de La Legua-Reynoso
+Cusco,Quispicanchi,Urcos,Urcos
+Huancavelica,Tayacaja,Pampas,Pampas
+Huanuco,Ambo,Ambo,Ambo
+Ica,Nazca,Nazca,Nazca
+Junin,Chupaca,Chupaca,Chupaca
+La Libertad,Ascope,Ascope,Ascope
+Lambayeque,Lambayeque,Lambayeque,Lambayeque
+Lima,Huarochiri,San Antonio,San Antonio
+Loreto,Maynas,Maynas,Maynas
+Madre de Dios,Tambopata,Tambopata,Tambopata
+Moquegua,General Sánchez Cerro,Omate,Omate
+Pasco,Oxapampa,Oxapampa,Oxapampa
+Piura,Sechura,Sechura,Sechura
+Puno,El Collao,Ilave,Ilave
+San Martin,Tocache,Tocache,Tocache
+Tacna,Candarave,Candarave,Candarave
+Tumbes,Zarumilla,Zarumilla,Zarumilla
+Ucayali,Atalaya,Atalaya,Atalaya
+Ancash,Sihuas,Sihuas,Sihuas
+Apurimac,Aymaraes,Chalhuanca,Chalhuanca
+Arequipa,Caylloma,Chivay,Chivay
+Ayacucho,Huamanga,Huamanga,Huamanga
+Cajamarca,Contumaza,Tantarica,Tantarica
+Callao,La Perla,La Perla,La Perla
+Cusco,Calca,Calca,Calca
+Huancavelica,Churcampa,Churcampa,Churcampa
+Huanuco,Yarowilca,Chavinillo,Chavinillo
+Ica,Palpa,Palpa,Palpa
+Junin,Junin,Junin,Junin
+La Libertad,Bolivar,Bolivar,Bolivar
+Lambayeque,Ferreñafe,Ferreñafe,Ferreñafe
+Lima,Canta,Atacocha,Atacocha
+Loreto,Putumayo,Putumayo,Putumayo
+Madre de Dios,Tahuamanu,Tahuamanu,Tahuamanu
+Moquegua,Mariscal Nieto,Moquegua,Moquegua
+Pasco,Paucar del Sara Sara,Chalcos,Chalcos
+Piura,Sullana,Sullana,Sullana
+Puno,Sandia,Limbani,Limbani
+San Martin,Lamas,Lamas,Lamas
+Tacna,Tarata,Tarata,Tarata
+Tumbes,Tumbes,Tumbes,Tumbes
+Ucayali,Purús,Purús,Purús
